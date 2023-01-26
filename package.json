@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "canvacord": "^5.4.8",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "quick.db": "^9.0.8"
+  },
+  "name": "slashcmd",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
